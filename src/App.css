@@ -1,4 +1,18 @@
-.App {
+div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+ul {
+  list-style-type: none;
+}
+
+input {
+  margin-bottom: 10px;
+}
+
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +49,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
